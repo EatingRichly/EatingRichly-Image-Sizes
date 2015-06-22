@@ -20,4 +20,4 @@ Use Photoshop Save for web function, images should be saved as an sRGB JPG file.
 # Video
 - Premiere Pro
  - Lower 3rd    (1920 x 360px)
- - Full Frame   (1920 x 1080px) 
+ - Full Frame   (1920 x 1080px)
